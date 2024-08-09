@@ -1,0 +1,75 @@
+# Node.js modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+typings/
+bower_components/
+
+# dotenv environment variables file
+.env
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of `npm pack`, `npm run dist`, etc.
+*.tgz
+*.zip
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# MacOS system files
+.DS_Store
+
+# Thumbnails
+._*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Python virtual environments
+.venv/
+__pycache__/
+
+# Coverage directory used by tools like Istanbul
+coverage/
+.nyc_output/
+
+# Debug files
+*.log
+*.test.js
+
+# Build directories
+dist/
+build/
+
+# Generated files
+*.bak
+*.tmp
+*.swp
+*.lock
+*.tsbuildinfo
+
+# Optional REPL history
+.node_repl_history
